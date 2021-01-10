@@ -1,4 +1,4 @@
-### timothyhay256
+### timothyhay256 
 
 ### About
 Hi! I am a programmer who mostly focuses on Python, but I also have and intrest 
